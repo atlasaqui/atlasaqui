@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atlasaqui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="160" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=atlasaqui&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="160" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atlasaqui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=atlasaqui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=atlasaqui&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atlasaqui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="130" alt="languages graph"  />
 </div>
 
 ###
@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-<img align="right" height="160" src="https://i.pinimg.com/736x/77/c0/b0/77c0b0b4c08a61c2e6d11c9242980a07.jpg"  />
+<img align="right" height="130" src="https://i.pinimg.com/736x/77/c0/b0/77c0b0b4c08a61c2e6d11c9242980a07.jpg"  />
 
 ###
 
