@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<img align="left" height="300" src="https://i.pinimg.com/736x/77/c0/b0/77c0b0b4c08a61c2e6d11c9242980a07.jpg"  />
+<img align="left" height="160" src="https://i.pinimg.com/736x/77/c0/b0/77c0b0b4c08a61c2e6d11c9242980a07.jpg"  />
 
 ###
 
