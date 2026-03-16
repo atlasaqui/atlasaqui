@@ -53,7 +53,7 @@
 
 ###
 
-<p align="left">De pixels a linhas de código. 💻✨<br><br>Sou um Designer formado que encontrou no desenvolvimento de sistemas a ferramenta perfeita para dar vida às ideias. Como estudante de Sistemas para Internet na Universidade Católica de Pernambuco, foco em entregar o pacote completo: um Front-end impecável aliado a um Back-end cada vez mais sólido.</p>
+<p align="left">De pixels a linhas de código. 💻✨<br><br>Sou um Designer formado que encontrou no desenvolvimento de sistemas uma ferramenta perfeita para criação de idéias. Como estudante de Sistemas para Internet na Universidade Católica de Pernambuco, foco em entregar o pacote completo: um Front-end Acompanhado ao Back-End.</p>
 
 ###
 
