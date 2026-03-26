@@ -47,7 +47,7 @@ Atualmente estou focado no projeto **Jet Set Radio: Reimagined**, onde documento
 ---
 
 ### 📝 Diário de Bordo
-- 🌱 Aprendendo: **GSAP ScrollTrigger** e **Transições de Clip-Path**.
+- 🌱 Aprendendo: **GSAP Animations** e **Transições de Clip-Path**.
 - 🖌️ Inspirado por: Estéticas dos anos 2000 e Design Urbano.
 - 💬 Pergunte-me sobre: **React, Tailwind v4 e GameMaker.**
 
