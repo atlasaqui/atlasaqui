@@ -34,8 +34,11 @@
 ---
 
 ## ✨ No que estou trabalhando agora?
-Atualmente estou focado no projeto **Jet Set Radio: Reimagined**, onde documento Minha criação de um Website, de um jogo **AAA** dos anos 2000 que foi produzido e publicado pela **Sega Entertainements**. Neste projeto apresento linha por linha do meu aprendizado em React e animações um pouco mais elaboradas com GSAP. 
+Atualmente estou focado no projeto **Jet Set Radio: Reimagined**, onde documento Minha criação de um Website, de um jogo **AAA** dos anos 2000 que foi produzido e publicado pela **Sega Entertainements**. Neste projeto apresento linha por linha do meu aprendizado em React e animações um pouco mais elaboradas com GSAP.
+<br>
 **Este é um projeto de aprendizado de nivel profissional.**
+<br>
+Repositório do projeto: https://github.com/atlasaqui/MY-SEGA-GAME-WEBSITE
 
 </div>
 
