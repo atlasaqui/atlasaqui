@@ -38,8 +38,10 @@ Atualmente estou focado no projeto **Jet Set Radio: Reimagined**, onde documento
 <br>
 **Este é um projeto de aprendizado de nivel profissional.**
 <br>
-Repositório do projeto: https://github.com/atlasaqui/MY-SEGA-GAME-WEBSITE
-
+  <br>
+**Repositório do projeto:** https://github.com/atlasaqui/MY-SEGA-GAME-WEBSITE
+  <br>
+<br>
 </div>
 
 ---
