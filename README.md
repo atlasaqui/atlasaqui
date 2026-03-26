@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Minha Tech Stack
+## .✦ ݁˖ Minha Tech Stack .✦ ݁˖
 *Focado em performance, animações fluidas e design responsivo.*
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 ---
 
-## 🕹️ No que estou trabalhando agora?
+## ✨ No que estou trabalhando agora?
 Atualmente estou focado no projeto **Jet Set Radio: Reimagined**, onde documento linha por linha do meu aprendizado em React e animações complexas com GSAP.
 
 </div>
@@ -42,7 +42,7 @@ Atualmente estou focado no projeto **Jet Set Radio: Reimagined**, onde documento
 
 ### 📝 Diário de Bordo
 - 🌱 Aprendendo: **GSAP ScrollTrigger** e **Transições de Clip-Path**.
-- 🎨 Inspirado por: Estéticas dos anos 2000 e Design Urbano.
+- 🖌️ Inspirado por: Estéticas dos anos 2000 e Design Urbano.
 - 💬 Pergunte-me sobre: **React, Tailwind v4 e GameMaker.**
 
 ---
