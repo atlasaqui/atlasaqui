@@ -1,17 +1,8 @@
 <div align="center">
 
-<picture>
-  <img
-    src="https://github.com/user-attachments/assets/<img width="736" height="736" alt="WhatsApp Image 2026-05-22 at 15 12 52" src="https://github.com/user-attachments/assets/0190c507-95fc-4daa-9745-c00c4f01a42b" />
-"
-    width="200"
-    alt="Victor William"
-    style="border-radius:50%; border: 3px solid #7c3aed;"
-  />
-</picture>
+<<img width="420" height="420" alt="WhatsApp Image 2026-05-22 at 15 12 52" src="https://github.com/user-attachments/assets/08f4bc1c-5f40-4c6c-9946-d22f465a13d8" />
 
-<br/><br/>
-
+/>
 <a href="https://www.linkedin.com/in/atlasaqui"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/victuh_will/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Recife%2C_PE-302b63?style=flat-square" />
@@ -21,14 +12,14 @@
 
 <br/>
 
-```
-  ██╗   ██╗██╗ ██████╗████████╗ ██████╗ ██████╗
-  ██║   ██║██║██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗
-  ██║   ██║██║██║        ██║   ██║   ██║██████╔╝
-  ╚██╗ ██╔╝██║██║        ██║   ██║   ██║██╔══██╗
-   ╚████╔╝ ██║╚██████╗   ██║   ╚██████╔╝██║  ██║
-    ╚═══╝  ╚═╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-```
+                                        ```
+                                               ██╗   ██╗██╗ ██████╗████████╗ ██████╗ ██████╗
+                                               ██║   ██║██║██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗
+                                               ██║   ██║██║██║        ██║   ██║   ██║██████╔╝
+                                               ╚██╗ ██╔╝██║██║        ██║   ██║   ██║██╔══██╗
+                                                ╚████╔╝ ██║╚██████╗   ██║   ╚██████╔╝██║  ██║
+                                                 ╚═══╝  ╚═╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
+                                                                                                  ```
 
 <div align="center">
 
@@ -118,16 +109,26 @@ Não é fã-site. É laboratório de front-end com estética intencional.
 </td>
 <td width="50%" valign="top">
 
-### Simulador de IRPF
+### Ashen Brew
 `HTML` `CSS` `JavaScript`
 
-Automatização do cálculo do imposto de renda com interface limpa e lógica aplicada. Projeto desenvolvido na UNICAP com foco em usabilidade e precisão de cálculo.
+Site temático de cervejaria artesanal com identidade visual sombria e atmosférica. Projeto com foco em design editorial aplicado à web — tipografia expressiva, paleta dark e narrativa visual coerente do início ao fim.
 
-[![](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atlasaqui/Simulador-de-IRPF)
+[![](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atlasaqui/ashen-brew)
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### Solaris
+`React 19` `TanStack Start` `Supabase` `Stripe` `Tailwind v4`
+
+SaaS multi-tenant white label para clínicas dermatológicas. Cada clínica recebe um app com sua própria identidade visual, biblioteca de conteúdo, evolução fotográfica dos pacientes, wiki clínica, alertas UV e gamificação. Deploy no edge via Cloudflare Workers.
+
+[![](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atlasaqui/solaris)
+
+</td>
 <td width="50%" valign="top">
 
 ### Programação Imperativa — Java
@@ -136,16 +137,6 @@ Automatização do cálculo do imposto de renda com interface limpa e lógica ap
 Laboratório de fundamentos da disciplina de Programação Imperativa. Estruturas de controle, POO e algoritmos com foco em raciocínio computacional.
 
 [![](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atlasaqui/imperative-programming---Java)
-
-</td>
-<td width="50%" valign="top">
-
-### TO-DO App
-`CSS` `JavaScript` `DOM`
-
-Gerenciador de tarefas com CRUD completo no front-end. Manipulação de DOM, persistência local e interface funcional sem dependências externas.
-
-[![](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atlasaqui/TO-DO-APP-PROJECT)
 
 </td>
 </tr>
@@ -191,7 +182,13 @@ referências:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atlasaqui&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=7c3aed&text_color=e2e8f0&rank_icon=github)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atlasaqui&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=e2e8f0)
+[![GitHub Streak](https://streak-stats.demolab.com?user=atlasaqui&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=7c3aed&fire=a855f7&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=6b7280&currStreakNum=a855f7&sideNums=e2e8f0)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atlasaqui&theme=midnight_purple)&nbsp;&nbsp;![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atlasaqui&theme=midnight_purple)
 
 </div>
 
