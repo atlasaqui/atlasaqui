@@ -4,7 +4,6 @@
 
 />
 <a href="https://www.linkedin.com/in/atlasaqui"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/victuh_will/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Recife%2C_PE-302b63?style=flat-square" />
 <img src="https://komarev.com/ghpvc/?username=atlasaqui&style=flat-square&color=7c3aed&label=profile+views" />
 
