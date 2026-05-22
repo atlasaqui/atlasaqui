@@ -1,8 +1,8 @@
 <div align="center">
 
-<<img width="420" height="420" alt="WhatsApp Image 2026-05-22 at 15 12 52" src="https://github.com/user-attachments/assets/08f4bc1c-5f40-4c6c-9946-d22f465a13d8" />
+<img width="420" height="420" alt="WhatsApp Image 2026-05-22 at 15 12 52" src="https://github.com/user-attachments/assets/08f4bc1c-5f40-4c6c-9946-d22f465a13d8" />
 
-/>
+
 <a href="https://www.linkedin.com/in/atlasaqui"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Recife%2C_PE-302b63?style=flat-square" />
 <img src="https://komarev.com/ghpvc/?username=atlasaqui&style=flat-square&color=7c3aed&label=profile+views" />
