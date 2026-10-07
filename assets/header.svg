@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Victor Monteiro — Design e desenvolvimento de interfaces</title>
+  <desc id="desc">Identidade atlas.dev em preto, marfim e laranja. Front-end, UI/UX e experiências interativas. Recife, Brasil.</desc>
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".055"/></pattern><linearGradient id="accent"><stop stop-color="#ff3b30"/><stop offset="1" stop-color="#ff7a1a"/></linearGradient></defs>
+  <rect width="1200" height="300" rx="16" fill="#111114"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+  <rect x="0" y="0" width="8" height="300" fill="url(#accent)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="48" y="52" fill="#ff7a1a" font-size="18" font-weight="700" letter-spacing="3">[ ATLAS.DEV ]</text>
+    <text x="1144" y="52" fill="#bcbcc4" font-size="15" text-anchor="end" letter-spacing="2">RECIFE / BRASIL</text>
+    <text x="45" y="143" fill="#f4f0e9" font-size="76" font-weight="800" letter-spacing="-3">Victor Monteiro</text>
+    <text x="48" y="188" fill="#bcbcc4" font-size="25">Design e desenvolvimento de interfaces.</text>
+    <path d="M48 219H1150" stroke="#34343a"/>
+    <text x="48" y="261" fill="#f4f0e9" font-size="16" letter-spacing="2">FRONT-END</text>
+    <circle cx="213" cy="255" r="3" fill="#ff7a1a"/>
+    <text x="241" y="261" fill="#f4f0e9" font-size="16" letter-spacing="2">UI/UX DESIGN</text>
+    <circle cx="431" cy="255" r="3" fill="#ff7a1a"/>
+    <text x="459" y="261" fill="#f4f0e9" font-size="16" letter-spacing="2">EXPERIÊNCIAS INTERATIVAS</text>
+    <path d="M1098 121h42v42m-42 0 42-42" fill="none" stroke="url(#accent)" stroke-width="8"/>
+  </g>
+</svg>

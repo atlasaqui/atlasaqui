@@ -1,213 +1,126 @@
-<div align="center">
+<a href="https://atlasaquidev.vercel.app/">
+  <img src="assets/header.svg" width="100%" alt="Victor Monteiro — design e desenvolvimento de interfaces. Front-end, UI/UX e experiências interativas." />
+</a>
 
-<img width="420" height="420" alt="WhatsApp Image 2026-05-22 at 15 12 52" src="https://github.com/user-attachments/assets/08f4bc1c-5f40-4c6c-9946-d22f465a13d8" />
+<p align="center">
+  <a href="https://atlasaquidev.vercel.app/"><strong>Explorar portfólio ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/atlasaqui/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="#projetos-selecionados">Projetos selecionados</a>
+</p>
 
+Sou **Victor Monteiro**, designer de UI/UX e desenvolvedor com foco em front-end. Formado em **Design de Animação pela UNIAESO** e estudante de **Sistemas para Internet na UNICAP**, conecto composição visual, interação e implementação em interfaces para web e jogos.
 
-<a href="https://www.linkedin.com/in/atlasaqui"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Recife%2C_PE-302b63?style=flat-square" />
-<img src="https://komarev.com/ghpvc/?username=atlasaqui&style=flat-square&color=7c3aed&label=profile+views" />
+Meu trabalho reúne **identidade visual, prototipagem no Figma, componentes em React e integração com APIs**. Os projetos abaixo mostram essa combinação em diferentes contextos: portfólio, experiência narrativa, produto mobile e experimentação com motion.
 
-</div>
-
-<br/>
-
-                                        ```
-                                               ██╗   ██╗██╗ ██████╗████████╗ ██████╗ ██████╗
-                                               ██║   ██║██║██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗
-                                               ██║   ██║██║██║        ██║   ██║   ██║██████╔╝
-                                               ╚██╗ ██╔╝██║██║        ██║   ██║   ██║██╔══██╗
-                                                ╚████╔╝ ██║╚██████╗   ██║   ╚██████╔╝██║  ██║
-                                                 ╚═══╝  ╚═╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-                                                                                                  ```
-
-<div align="center">
-
-**Designer Gráfico Formado &nbsp;·&nbsp; Desenvolvedor Full Stack &nbsp;·&nbsp; UNICAP — Sistemas para Internet**
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## $ WHOAMI
-
-Sou **Victor Monteiro** — venho do design e fui direto pra engenharia de software. Não troquei uma coisa pela outra: carreguei a minha experiência em designer pra dentro do desenvolvimento web. O resultado é que eu não só implemento interfaces, eu as **penso** antes de qualquer linha existir.
-
-Trabalho na interseção entre **produto, design e desenvolvimento** — do Figma à produção, passando por banco de dados, autenticação e deploy. Estudo Sistemas para Internet na UNICAP e já atuo profissionalmente na área.
-
-Faço front-end com intenção visual. Faço back-end com estrutura de quem pensa em escala. Faço design com consciência técnica de quem sabe o custo de cada escolha.
-
-> *"The Reality is Punk"*
-
-<br/>
-
----
-
-<br/>
-
-## Stack
-
-<br/>
-
-**— FRONT-END**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_v4-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-
-<br/><br/>
-
-**— BACK-END & BANCO DE DADOS**
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-
-<br/><br/>
-
-**— PLATAFORMAS & INFRA**
-
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logoColor=white" />
-
-<br/><br/>
-
-**— GAME DEVELOPMENT**
-
-<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white" />
-
-<br/><br/>
-
-**— DESIGN & CRIAÇÃO**
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinci-resolve&logoColor=white" />
-
-<br/>
-
----
-
-<br/>
-
-## Projetos
-
-<br/>
+## Projetos selecionados
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://atlasaquidev.vercel.app/"><img src="assets/atlas-cover.png" width="100%" alt="Atlas.dev — portfólio pessoal com identidade visual escura e acentos em vermelho e laranja." /></a>
 
-### Jet Set Radio — Reimagined
-`React` `Tailwind v4` `GSAP` `Clip-Path`
+### 01 / Atlas.dev
 
-Reimaginação do universo visual do clássico Dreamcast da Sega como experiência web de alta performance. Animações com clip-path, sequências de scroll e transições cinematográficas com GSAP.
+**Portfólio publicado · Design & front-end**
 
-Não é fã-site. É laboratório de front-end com estética intencional.
+Meu espaço para apresentar projetos, protótipos e processo. Identidade visual própria, navegação responsiva, galerias e animações conectam minha atuação em design ao desenvolvimento.
 
-[![](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atlasaqui/MY-SEGA-GAME-WEBSITE)
+**Atuação:** concepção visual e implementação do portfólio.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
+
+[**Visitar site ↗**](https://atlasaquidev.vercel.app/) · [Código](https://github.com/atlasaqui/Atlas.Dev-Website) · [Figma](https://www.figma.com/design/2UtdxO0LT8r2wEVFJQK11n/Atlas---Portifolio?node-id=0-1)
 
 </td>
 <td width="50%" valign="top">
+<a href="https://atlasaqui.itch.io/rastros"><img src="assets/rastros-cover.png" width="100%" alt="Rastros — banner do jogo de investigação e terror psicológico." /></a>
 
-### Ashen Brew
-`HTML` `CSS` `JavaScript`
+### 02 / Rastros
 
-Site temático de cervejaria artesanal com identidade visual sombria e atmosférica. Projeto com foco em design editorial aplicado à web — tipografia expressiva, paleta dark e narrativa visual coerente do início ao fim.
+**Jogo publicado · Programação & UX**
 
-[![](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atlasaqui/ashen-brew)
+Investigação e terror psicológico desenvolvidos em equipe para uma game jam literária. Exploração, diálogos, puzzles e um computador fictício, o Iwakura OS, conduzem a narrativa.
+
+**Minha contribuição:** programação e UX Design, conforme os créditos do jogo. Narrativa, arte e áudio são trabalhos da equipe.
+
+`Java / JavaFX` `React` `JavaScript` `Game UX`
+
+[**Baixar e jogar ↗**](https://atlasaqui.itch.io/rastros) · [Código](https://github.com/atlasaqui/rastros) · [Arquitetura](https://github.com/atlasaqui/rastros/blob/main/docs/ARQUITETURA.md)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/Mateus-F-Moura/bazar-solidario/tree/feat/frontend-mobile"><img src="assets/bazar-cover.png" width="100%" alt="Bazar Solidário — interface mobile em verde petróleo, marfim e aqua." /></a>
 
-### Solaris
-`React 19` `TanStack Start` `Supabase` `Stripe` `Tailwind v4`
+### 03 / Bazar Solidário
 
-SaaS multi-tenant white label para clínicas dermatológicas. Cada clínica recebe um app com sua própria identidade visual, biblioteca de conteúdo, evolução fotográfica dos pacientes, wiki clínica, alertas UV e gamificação. Deploy no edge via Cloudflare Workers.
+**Em desenvolvimento · UI mobile & integração**
 
-[![](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atlasaqui/solaris)
+Projeto colaborativo de moda circular com proposta de apoio a ONGs. A experiência reúne catálogo, busca, filtros, favoritos, sacola e cadastro conectado ao backend existente.
+
+**Minha contribuição:** design da interface e front-end React/TypeScript, adaptação ao contrato de cadastro e testes do cliente da API.
+
+`React` `TypeScript` `Vite` `Figma` `API REST`
+
+[**Ver minha contribuição ↗**](https://github.com/Mateus-F-Moura/bazar-solidario/tree/feat/frontend-mobile/frontend) · [Protótipo no Figma](https://www.figma.com/design/UNlqj03qJ6BsaAX9sUwxiL?node-id=3-19)
+
+<sub>Cadastro integrado. Catálogo, eventos e checkout ainda demonstrativos; login e vendas reais fazem parte das próximas etapas.</sub>
 
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/atlasaqui/MY-SEGA-GAME-WEBSITE"><img src="assets/jet-cover.png" width="100%" alt="Jet Set Radio Reimagined — capa do estudo de front-end criativo com capa editorial." /></a>
 
-### Programação Imperativa — Java
-`Java` `OOP` `Algoritmos` `UNICAP`
+### 04 / Jet Set Radio — Reimagined
 
-Laboratório de fundamentos da disciplina de Programação Imperativa. Estruturas de controle, POO e algoritmos com foco em raciocínio computacional.
+**Estudo autoral · Front-end criativo**
 
-[![](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atlasaqui/imperative-programming---Java)
+Reinterpretação web da estética urbana de Jet Set Radio. Um laboratório de composição, transições, animação por scroll e interação com React e GSAP.
+
+**Atuação:** desenvolvimento da experiência web e composição da interface. Estudo independente inspirado na SEGA, sem vínculo oficial.
+
+`React` `JavaScript` `Tailwind CSS` `GSAP`
+
+[**Explorar o código ↗**](https://github.com/atlasaqui/MY-SEGA-GAME-WEBSITE)
+
+<sub>Capa editorial do estudo; referências à SEGA e aos respectivos autores pertencem ao projeto original.</sub>
 
 </td>
 </tr>
 </table>
 
-<br/>
+## Do protótipo à implementação
 
----
+| Etapa | Como trabalho |
+| :--- | :--- |
+| **Entender** | Identifico o objetivo, os fluxos principais e as restrições do projeto. |
+| **Desenhar** | Organizo a informação e defino hierarquia, tipografia, cores e componentes no Figma. |
+| **Construir** | Transformo a proposta em interfaces responsivas, estados de interação e integração com APIs. |
+| **Verificar** | Reviso navegação, legibilidade, comportamento no celular e os fluxos implementados. |
 
-<br/>
+**Protótipos de UI/UX:** [Correct-on](https://www.figma.com/design/nvS9tl1DSwGTM7D8VkuTSX/Correct-on?node-id=0-1) · [Contratas / HireUp](https://www.figma.com/design/hSr45dNn8729POKBppWPbU/HireUp?node-id=77-2653). Mais telas e trabalhos de Game UI estão no [portfólio](https://atlasaquidev.vercel.app/#projetos).
 
-## Agora
+## Ferramentas no meu trabalho
 
-```yaml
-# victor.william — status: maio 2026
+| Frente | Tecnologias e prática |
+| :--- | :--- |
+| **Front-end** | React, Next.js, TypeScript, JavaScript, HTML, CSS e Tailwind CSS |
+| **Interação & motion** | GSAP, Framer Motion e interfaces narrativas |
+| **Design** | Figma, prototipagem, identidade visual, design tokens e composição |
+| **Integração & dados** | APIs REST, Java, JavaFX, PostgreSQL e Supabase |
+| **Desenvolvimento** | Git, GitHub, Vite e Vercel |
 
-estudando:
-  - PostgreSQL avançado — queries, índices, RLS
-  - Autenticação e segurança com Supabase
-  - TypeScript em projetos React de produção
+## Outros projetos e estudos
 
-construindo_com:
-  - TanStack Router + TanStack Query
-  - Deploy fullstack — Vercel + Cloudflare Workers
-  - Design systems com tokens reais no Figma
+- [**Solaris**](https://github.com/atlasaqui/solaris) — aplicação em desenvolvimento para clínicas dermatológicas. React, TypeScript e TanStack Start, com módulos de pacientes, conteúdo, personalização, Supabase e Stripe. Complementa o portfólio com fluxos de produto e integração.
+- [**Ashen Brew**](https://github.com/atlasaqui/Ashen-Brew-Ecommerce-Project) — estudo de uma interface temática de taverna com Next.js, TypeScript e GSAP. Foco atual em identidade, tipografia e hero com vídeo.
+- [**EduStats**](https://github.com/atlasaqui/EduStats-WebSite) e [**To-do App**](https://github.com/atlasaqui/TO-DO-APP-PROJECT) — outros exercícios de interfaces web.
+- [**Fundamentos em Java**](https://github.com/atlasaqui/imperative-programming---Java) — estudos acadêmicos de lógica e programação, complementados pelos demais repositórios de exercícios.
 
-explorando:
-  - Game design com Godot e Unity
-  - Narrativa visual em interfaces interativas
-  - Pipeline entre design e engenharia sem atrito
+## Vamos conversar
 
-referências:
-  - Estética urbana dos anos 2000
-  - Interfaces que têm ritmo, não só layout
-  - Software que parece ter sido feito por gente que liga pro detalhe
-```
+Tenho interesse em projetos e oportunidades de **front-end, UI/UX, web design e interfaces para jogos**. Para conhecer meu trabalho em contexto, comece pelo portfólio ou pelo Rastros.
 
-<br/>
+[**Portfólio ↗**](https://atlasaquidev.vercel.app/) &nbsp; · &nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/atlasaqui/)
 
----
-
-<br/>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=atlasaqui&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=7c3aed&fire=a855f7&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=6b7280&currStreakNum=a855f7&sideNums=e2e8f0)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atlasaqui&theme=midnight_purple)&nbsp;&nbsp;![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atlasaqui&theme=midnight_purple)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-```
-Victor William Monteiro da Rocha
-Designer · Developer · Recife, PE
-```
-
-[![LinkedIn](https://img.shields.io/badge/Vamos_conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atlasaqui)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2e1065,100:0d0d0d&height=100&section=footer&reversal=true" width="100%"/>
-
-</div>
+<sub>Victor William Monteiro da Rocha · Recife, PE · Seleção atualizada em outubro de 2026.</sub>
