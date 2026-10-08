@@ -1,5 +1,5 @@
 <a href="https://atlasaquidev.vercel.app/">
-  <img src="assets/header.svg" width="100%" alt="Victor Monteiro — design e desenvolvimento de interfaces. Front-end, UI/UX e experiências interativas." />
+  <img src="assets/header-editorial.svg" width="100%" alt="Victor Monteiro — design e desenvolvimento de interfaces. Front-end, UI/UX e experiências interativas." />
 </a>
 
 <p align="center">
@@ -51,7 +51,7 @@ Investigação e terror psicológico desenvolvidos em equipe para uma game jam l
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Mateus-F-Moura/bazar-solidario/tree/feat/frontend-mobile"><img src="https://raw.githubusercontent.com/atlasaqui/Atlas.Dev-Website/main/public/ASSETS/Bazar/fundamentos.png" width="100%" alt="ISAC Brechó — fundamentos da identidade atual, com azul petróleo, laranja e superfícies claras." /></a>
+<a href="https://github.com/Mateus-F-Moura/bazar-solidario/tree/feat/frontend-mobile"><img src="assets/isac-editorial.png" width="100%" alt="ISAC Brechó — fundamentos da identidade atual, com azul petróleo, laranja e superfícies claras." /></a>
 
 ### 03 / ISAC Brechó
 
@@ -69,7 +69,7 @@ Projeto de residência tecnológica em parceria com o Porto Digital e a ONG ISAC
 
 </td>
 <td width="50%" valign="top">
-<a href="https://atlasaquidev.vercel.app/projetos/big-fight-small-robots"><img src="https://raw.githubusercontent.com/atlasaqui/Atlas.Dev-Website/main/public/ASSETS/BigFightSmallRobots/1.png" width="100%" height="250" alt="Big Fight Small Robots — estudo de Game UI com composição punk, recortes e cores expressivas." /></a>
+<a href="https://atlasaquidev.vercel.app/projetos/big-fight-small-robots"><img src="assets/bfr-editorial.png" width="100%" alt="Big Fight Small Robots — estudo de Game UI com composição punk, recortes e cores expressivas." /></a>
 
 ### 04 / Big Fight Small Robots
 
